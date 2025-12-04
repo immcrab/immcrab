@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Owen (immcrab)
+# Hi there 👋, I'm Owen (imcrab)
 
 Welcome to my GitHub! I’m a teen developer who loves creating fun, interactive projects and experimenting with code.  
 
@@ -31,9 +31,7 @@ Here are some of my most recent projects. Check them out!
 ---
 
 ## 💬 Connect with Me
-- Twitter: [@yourhandle](https://twitter.com/)  
-- Discord: `Owen#1234`  
-- Portfolio: [Your Website](https://yourwebsite.com)  
+- Discord: `immcrab`  
 
 ---
 
