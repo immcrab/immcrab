@@ -17,9 +17,9 @@ Here are some of my most recent projects. Check them out!
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Gorilla Craft Compiled** | A fun little browser shooter game. | [Play it](https://immcrab.github.io/gorillacraftcompiled) |
-| **Pickup Lines V2** | Defend the planet from alien invaders! | [Play it](https://immcrab.github.io/pickuplinesv2) |
-| **Gorilla Streak** | A multiplayer flipping game with friends. | [Play it](https://immcrab.github.io/GorillaStreak) |
+| **Gorilla Craft Compiled** | Minecraft in Gtag. | [view](https://github.com/immcrab/GorillaCraftCompiled) |
+| **Pickup Lines V2** | Code Of Conduct Pickup Lines | [view](https://github.com/immcrab/COCPickupLinesV2) |
+| **Gorilla Streak** | A gtag mod that tracks you log in streak | [view](https://github.com/immcrab/GorillaStreak) |
 
 > **Tip:** You can always check my [repositories](https://github.com/immcrab?tab=repositories) for all my projects.
 
